@@ -1,2 +1,1 @@
-# 2do-Semestre
-2do Semestre de la Universidad
+# Mis prácticas de la universidad
